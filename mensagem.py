@@ -1,3 +1,3 @@
-mensagem = "Hello nova mensagem"
+mensagem = "Nova feature"
 
 print(mensagem)
